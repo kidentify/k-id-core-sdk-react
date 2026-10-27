@@ -1,0 +1,197 @@
+{
+  "multiplayer": {
+    "name": "Сетевая многопользовательская игра"
+  },
+  "leaderboard-and-rankings": {
+    "name": "Таблица лидеров и рейтинги"
+  },
+  "join-groups": {
+    "name": "Вступление в группы"
+  },
+  "public-profile": {
+    "name": "Публичный профиль"
+  },
+  "custom-avatar": {
+    "name": "Пользовательский аватар"
+  },
+  "custom-username": {
+    "name": "Пользовательское имя пользователя"
+  },
+  "text-chat-private": {
+    "name": "Текстовый чат (личный)"
+  },
+  "text-chat-public": {
+    "name": "Текстовый чат (общий)"
+  },
+  "voice-chat": {
+    "name": "Голосовой чат"
+  },
+  "video-chat": {
+    "name": "Видеочат"
+  },
+  "online-status": {
+    "name": "Сетевой статус"
+  },
+  "public-friend-list": {
+    "name": "Общедоступный список друзей"
+  },
+  "send-accept-friend-requests": {
+    "name": "Отправка и принятие запросов в друзья"
+  },
+  "link-to-third-party-chat": {
+    "name": "Ссылка на сторонний чат"
+  },
+  "virtual-events": {
+    "name": "Виртуальные мероприятия"
+  },
+  "personalized-recommendations": {
+    "name": "Персонализированные рекомендации"
+  },
+  "targeted-ads": {
+    "name": "Таргетированная реклама"
+  },
+  "profiling": {
+    "name": "Профилирование"
+  },
+  "push-notifications": {
+    "name": "Push-уведомления"
+  },
+  "share-to-social-media": {
+    "name": "Поделиться в социальных сетях"
+  },
+  "direct-marketing": {
+    "name": "Прямой маркетинг"
+  },
+  "forums": {
+    "name": "Форумы"
+  },
+  "in-game-purchases": {
+    "name": "Покупки в приложении"
+  },
+  "loot-boxes-paid-cosmetic-only": {
+    "name": "Платные лутбоксы (только косметика)"
+  },
+  "loot-boxes-paid-gameplay-impacting": {
+    "name": "Влияющие на игровой процесс платные лутбоксы"
+  },
+  "loot-boxes-kompu-gacha": {
+    "name": "Лутбоксы Компу Гача"
+  },
+  "loot-boxes-paid-open-loop": {
+    "name": "Платные лутбоксы с открытой петлей"
+  },
+  "send-gifts": {
+    "name": "Отправка подарков"
+  },
+  "simulated-gambling": {
+    "name": "Симуляция азартных игр"
+  },
+  "virtual-property-ownership": {
+    "name": "Владение виртуальной собственностью"
+  },
+  "camera-access": {
+    "name": "Доступ к камере"
+  },
+  "share-game-clips-screenshots": {
+    "name": "Делитесь игровыми клипами и скриншотами"
+  },
+  "photo-video-sharing": {
+    "name": "Обмен фото и видео"
+  },
+  "real-time-location-sharing": {
+    "name": "Общий доступ к точному местоположению"
+  },
+  "mods": {
+    "name": "Пользовательский контент"
+  },
+  "gameplay-streaming": {
+    "name": "Стриминг игрового процесса"
+  },
+  "gameplay-recording": {
+    "name": "Запись игрового процесса"
+  },
+  "link-to-third-party-streaming-app": {
+    "name": "Ссылка на стороннее стриминговое приложение"
+  },
+  "ai-chat": {
+    "name": "Чат с ИИ"
+  },
+  "ai-voice-mode": {
+    "name": "Голосовой режим ИИ"
+  },
+  "ai-memory": {
+    "name": "Память ИИ"
+  },
+  "ai-media-generation": {
+    "name": "Генерация медиа с помощью ИИ"
+  },
+  "ai-model-training": {
+    "name": "Обучение модели ИИ"
+  },
+  "ai-companion-chatbot": {
+    "name": "ИИ-компаньон (чат-бот)"
+  },
+  "ai-media-upload": {
+    "name": "Загрузка медиа для ИИ"
+  },
+  "ai-text-chat": {
+    "name": "Текстовый чат с ИИ"
+  },
+  "ai-image-generation": {
+    "name": "Генерация изображений с помощью ИИ"
+  },
+  "ai-video-generation": {
+    "name": "Генерация видео с помощью ИИ"
+  },
+  "ai-web-browsing": {
+    "name": "Просмотр веб-страниц с помощью ИИ"
+  },
+  "ai-code-execution": {
+    "name": "Выполнение кода ИИ"
+  },
+  "ai-tool-use": {
+    "name": "Использование инструментов ИИ"
+  },
+  "ai-custom-models": {
+    "name": "Настраиваемые модели ИИ"
+  },
+  "ai-generated-avatars": {
+    "name": "Аватары, созданные ИИ"
+  },
+  "augmented-reality": {
+    "name": "Дополненная реальность"
+  },
+  "mature-language": {
+    "name": "Ненормативная лексика"
+  },
+  "motion-data": {
+    "name": "Данные о движении"
+  },
+  "ai-chatbot": {
+    "name": "Чат-бот с ИИ"
+  },
+  "pvp": {
+    "name": "PvP"
+  },
+  "chat-rooms-public": {
+    "name": "Чаты (публичные)"
+  },
+  "link-to-social-media-account": {
+    "name": "Привязка к аккаунту социальной сети"
+  },
+  "auctions": {
+    "name": "Аукционы"
+  },
+  "virtual-marketplace": {
+    "name": "Виртуальная торговая площадка"
+  },
+  "contextual-ads": {
+    "name": "Контекстная реклама"
+  },
+  "restricted-advertising-content": {
+    "name": "Реклама с ограничениями по содержанию"
+  },
+  "disable-safety-prompts": {
+    "name": "Отключить подсказки безопасности"
+  }
+}

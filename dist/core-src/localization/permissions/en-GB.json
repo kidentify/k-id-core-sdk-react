@@ -1,0 +1,197 @@
+{
+  "multiplayer": {
+    "name": "Online Multiplayer"
+  },
+  "leaderboard-and-rankings": {
+    "name": "Leaderboard and Rankings"
+  },
+  "join-groups": {
+    "name": "Join Groups"
+  },
+  "public-profile": {
+    "name": "Public Profile"
+  },
+  "custom-avatar": {
+    "name": "Custom Avatar"
+  },
+  "custom-username": {
+    "name": "Custom Username"
+  },
+  "text-chat-private": {
+    "name": "Text Chat (Private)"
+  },
+  "text-chat-public": {
+    "name": "Text Chat (Public)"
+  },
+  "voice-chat": {
+    "name": "Voice Chat"
+  },
+  "video-chat": {
+    "name": "Video Chat"
+  },
+  "online-status": {
+    "name": "Online Status"
+  },
+  "public-friend-list": {
+    "name": "Public Friend List"
+  },
+  "send-accept-friend-requests": {
+    "name": "Send Accept Friend Requests"
+  },
+  "link-to-third-party-chat": {
+    "name": "Link to Third Party Chat"
+  },
+  "virtual-events": {
+    "name": "Virtual Events"
+  },
+  "personalized-recommendations": {
+    "name": "Personalised Recommendations"
+  },
+  "targeted-ads": {
+    "name": "Targeted Ads"
+  },
+  "profiling": {
+    "name": "Profiling"
+  },
+  "push-notifications": {
+    "name": "Push Notifications"
+  },
+  "share-to-social-media": {
+    "name": "Share to Social Media"
+  },
+  "direct-marketing": {
+    "name": "Direct Marketing"
+  },
+  "forums": {
+    "name": "Forums"
+  },
+  "in-game-purchases": {
+    "name": "In-App Purchases"
+  },
+  "loot-boxes-paid-cosmetic-only": {
+    "name": "Loot Boxes Paid Cosmetic Only"
+  },
+  "loot-boxes-paid-gameplay-impacting": {
+    "name": "Loot Boxes Paid Usage Impacting"
+  },
+  "loot-boxes-kompu-gacha": {
+    "name": "Loot Boxes Kompu Gacha"
+  },
+  "loot-boxes-paid-open-loop": {
+    "name": "Loot Boxes Paid Open Loop"
+  },
+  "send-gifts": {
+    "name": "Send Gifts"
+  },
+  "simulated-gambling": {
+    "name": "Simulated Gambling"
+  },
+  "virtual-property-ownership": {
+    "name": "Virtual Property Ownership"
+  },
+  "camera-access": {
+    "name": "Camera Access"
+  },
+  "share-game-clips-screenshots": {
+    "name": "Share App Clips Screenshots"
+  },
+  "photo-video-sharing": {
+    "name": "Photo Video Sharing"
+  },
+  "real-time-location-sharing": {
+    "name": "Precise Location Sharing"
+  },
+  "mods": {
+    "name": "User-Generated Content"
+  },
+  "gameplay-streaming": {
+    "name": "Streaming"
+  },
+  "gameplay-recording": {
+    "name": "Recording"
+  },
+  "link-to-third-party-streaming-app": {
+    "name": "Link to Third-Party Streaming App"
+  },
+  "ai-chat": {
+    "name": "AI Chat"
+  },
+  "ai-voice-mode": {
+    "name": "AI Voice Mode"
+  },
+  "ai-memory": {
+    "name": "AI Memory"
+  },
+  "ai-media-generation": {
+    "name": "AI Media Generation"
+  },
+  "ai-model-training": {
+    "name": "AI Model Training"
+  },
+  "ai-companion-chatbot": {
+    "name": "AI Companion Chatbot"
+  },
+  "ai-media-upload": {
+    "name": "AI Media Upload"
+  },
+  "ai-text-chat": {
+    "name": "AI Text Chat"
+  },
+  "ai-image-generation": {
+    "name": "AI Image Generation"
+  },
+  "ai-video-generation": {
+    "name": "AI Video Generation"
+  },
+  "ai-web-browsing": {
+    "name": "AI Web Browsing"
+  },
+  "ai-code-execution": {
+    "name": "AI Code Execution"
+  },
+  "ai-tool-use": {
+    "name": "AI Tool Use"
+  },
+  "ai-custom-models": {
+    "name": "AI Custom Models"
+  },
+  "ai-generated-avatars": {
+    "name": "AI Generated Avatars"
+  },
+  "augmented-reality": {
+    "name": "Augmented Reality"
+  },
+  "mature-language": {
+    "name": "Mature Language"
+  },
+  "motion-data": {
+    "name": "Motion Data"
+  },
+  "ai-chatbot": {
+    "name": "AI Chatbot"
+  },
+  "pvp": {
+    "name": "PvP"
+  },
+  "chat-rooms-public": {
+    "name": "Chat Rooms (Public)"
+  },
+  "link-to-social-media-account": {
+    "name": "Link to Social Media Account"
+  },
+  "auctions": {
+    "name": "Auctions"
+  },
+  "virtual-marketplace": {
+    "name": "Virtual Marketplace"
+  },
+  "contextual-ads": {
+    "name": "Contextual Ads"
+  },
+  "restricted-advertising-content": {
+    "name": "Restricted Advertising Content"
+  },
+  "disable-safety-prompts": {
+    "name": "Disable Safety Prompts"
+  }
+}

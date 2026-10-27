@@ -1,0 +1,197 @@
+{
+  "multiplayer": {
+    "name": "Çevrimiçi Çok Oyunculu"
+  },
+  "leaderboard-and-rankings": {
+    "name": "Lider Tablosu ve Sıralamalar"
+  },
+  "join-groups": {
+    "name": "Gruplara Katıl"
+  },
+  "public-profile": {
+    "name": "Herkese Açık Profil"
+  },
+  "custom-avatar": {
+    "name": "Özel Avatar"
+  },
+  "custom-username": {
+    "name": "Özel Kullanıcı Adı"
+  },
+  "text-chat-private": {
+    "name": "Metin Sohbeti (Özel)"
+  },
+  "text-chat-public": {
+    "name": "Metin Sohbeti (Herkese Açık)"
+  },
+  "voice-chat": {
+    "name": "Sesli Sohbet"
+  },
+  "video-chat": {
+    "name": "Görüntülü Sohbet"
+  },
+  "online-status": {
+    "name": "Çevrimiçi Durum"
+  },
+  "public-friend-list": {
+    "name": "Herkese Açık Arkadaş Listesi"
+  },
+  "send-accept-friend-requests": {
+    "name": "Arkadaşlık İstekleri Gönderme ve Kabul Etme"
+  },
+  "link-to-third-party-chat": {
+    "name": "Üçüncü Taraf Sohbetine Bağla"
+  },
+  "virtual-events": {
+    "name": "Sanal Etkinlikler"
+  },
+  "personalized-recommendations": {
+    "name": "Kişiselleştirilmiş Öneriler"
+  },
+  "targeted-ads": {
+    "name": "Hedefli Reklamlar"
+  },
+  "profiling": {
+    "name": "Profil Oluşturma"
+  },
+  "push-notifications": {
+    "name": "Anlık Bildirimler"
+  },
+  "share-to-social-media": {
+    "name": "Sosyal Medyada Paylaşma"
+  },
+  "direct-marketing": {
+    "name": "Doğrudan Pazarlama"
+  },
+  "forums": {
+    "name": "Forumlar"
+  },
+  "in-game-purchases": {
+    "name": "Uygulama İçi Satın Alımlar"
+  },
+  "loot-boxes-paid-cosmetic-only": {
+    "name": "Ganimet Kutuları (Yalnızca Kozmetik Amaçlı Ücretli)"
+  },
+  "loot-boxes-paid-gameplay-impacting": {
+    "name": "Ganimet Kutuları Ücretli Oynanışı Etkileyen"
+  },
+  "loot-boxes-kompu-gacha": {
+    "name": "Ganimet Kutuları Kompu Gacha"
+  },
+  "loot-boxes-paid-open-loop": {
+    "name": "Ganimet Kutuları (Ücretli Açık Döngü)"
+  },
+  "send-gifts": {
+    "name": "Hediye Gönderme"
+  },
+  "simulated-gambling": {
+    "name": "Simüle Edilmiş Kumar"
+  },
+  "virtual-property-ownership": {
+    "name": "Sanal Mülkiyet Sahipliği"
+  },
+  "camera-access": {
+    "name": "Kamera Erişimi"
+  },
+  "share-game-clips-screenshots": {
+    "name": "Oyun Klipleri Ekran Görüntüleri Paylaş"
+  },
+  "photo-video-sharing": {
+    "name": "Fotoğraf Video Paylaşımı"
+  },
+  "real-time-location-sharing": {
+    "name": "Hassas Konum Paylaşımı"
+  },
+  "mods": {
+    "name": "Kullanıcı Tarafından Oluşturulan İçerik"
+  },
+  "gameplay-streaming": {
+    "name": "Oynanış Yayını"
+  },
+  "gameplay-recording": {
+    "name": "Oynanış Kaydı"
+  },
+  "link-to-third-party-streaming-app": {
+    "name": "Üçüncü Taraf Yayın Uygulamasına Bağla"
+  },
+  "ai-chat": {
+    "name": "Yapay Zeka Sohbeti"
+  },
+  "ai-voice-mode": {
+    "name": "Yapay Zeka Sesli Mod"
+  },
+  "ai-memory": {
+    "name": "Yapay Zeka Hafızası"
+  },
+  "ai-media-generation": {
+    "name": "Yapay Zeka Medya Oluşturma"
+  },
+  "ai-model-training": {
+    "name": "Yapay Zeka Modeli Eğitimi"
+  },
+  "ai-companion-chatbot": {
+    "name": "Yapay Zeka Arkadaş Sohbet Botu"
+  },
+  "ai-media-upload": {
+    "name": "Yapay Zeka Medya Yükleme"
+  },
+  "ai-text-chat": {
+    "name": "Yapay Zeka Metin Sohbeti"
+  },
+  "ai-image-generation": {
+    "name": "Yapay Zeka Görsel Oluşturma"
+  },
+  "ai-video-generation": {
+    "name": "Yapay Zeka Video Oluşturma"
+  },
+  "ai-web-browsing": {
+    "name": "Yapay Zeka Web Tarama"
+  },
+  "ai-code-execution": {
+    "name": "Yapay Zeka Kod Çalıştırma"
+  },
+  "ai-tool-use": {
+    "name": "Yapay Zeka Araç Kullanımı"
+  },
+  "ai-custom-models": {
+    "name": "Yapay Zeka Özel Modelleri"
+  },
+  "ai-generated-avatars": {
+    "name": "Yapay Zeka Üretimli Avatarlar"
+  },
+  "augmented-reality": {
+    "name": "Artırılmış Gerçeklik"
+  },
+  "mature-language": {
+    "name": "Yetişkin Dili"
+  },
+  "motion-data": {
+    "name": "Hareket Verileri"
+  },
+  "ai-chatbot": {
+    "name": "Yapay Zeka Sohbet Botu"
+  },
+  "pvp": {
+    "name": "PvP"
+  },
+  "chat-rooms-public": {
+    "name": "Sohbet Odaları (Herkese Açık)"
+  },
+  "link-to-social-media-account": {
+    "name": "Sosyal Medya Hesabına Bağla"
+  },
+  "auctions": {
+    "name": "Açık Artırmalar"
+  },
+  "virtual-marketplace": {
+    "name": "Sanal Pazar Yeri"
+  },
+  "contextual-ads": {
+    "name": "Bağlamsal Reklamlar"
+  },
+  "restricted-advertising-content": {
+    "name": "Kısıtlı Reklam İçeriği"
+  },
+  "disable-safety-prompts": {
+    "name": "Güvenlik İstemlerini Devre Dışı Bırak"
+  }
+}

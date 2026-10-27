@@ -1,0 +1,197 @@
+{
+  "multiplayer": {
+    "name": "Online multiplayer"
+  },
+  "leaderboard-and-rankings": {
+    "name": "Scorebord en ranglijsten"
+  },
+  "join-groups": {
+    "name": "Deelnemen aan groepen"
+  },
+  "public-profile": {
+    "name": "Openbaar profiel"
+  },
+  "custom-avatar": {
+    "name": "Aangepaste avatar"
+  },
+  "custom-username": {
+    "name": "Aangepaste gebruikersnaam"
+  },
+  "text-chat-private": {
+    "name": "Tekstchat (privé)"
+  },
+  "text-chat-public": {
+    "name": "Tekstchat (openbaar)"
+  },
+  "voice-chat": {
+    "name": "Spraakchat"
+  },
+  "video-chat": {
+    "name": "Videochat"
+  },
+  "online-status": {
+    "name": "Onlinestatus"
+  },
+  "public-friend-list": {
+    "name": "Openbare vriendenlijst"
+  },
+  "send-accept-friend-requests": {
+    "name": "Vriendschapsverzoeken versturen en accepteren"
+  },
+  "link-to-third-party-chat": {
+    "name": "Koppeling naar externe chat-app"
+  },
+  "virtual-events": {
+    "name": "Virtuele evenementen"
+  },
+  "personalized-recommendations": {
+    "name": "Gepersonaliseerde aanbevelingen"
+  },
+  "targeted-ads": {
+    "name": "Gerichte advertenties"
+  },
+  "profiling": {
+    "name": "Profilering"
+  },
+  "push-notifications": {
+    "name": "Pushmeldingen"
+  },
+  "share-to-social-media": {
+    "name": "Delen op sociale media"
+  },
+  "direct-marketing": {
+    "name": "Direct marketing"
+  },
+  "forums": {
+    "name": "Forums"
+  },
+  "in-game-purchases": {
+    "name": "In-app-aankopen"
+  },
+  "loot-boxes-paid-cosmetic-only": {
+    "name": "Betaalde lootboxes (alleen cosmetisch)"
+  },
+  "loot-boxes-paid-gameplay-impacting": {
+    "name": "Betaalde lootboxes (met invloed op gebruik)"
+  },
+  "loot-boxes-kompu-gacha": {
+    "name": "Lootboxes Kompu Gacha"
+  },
+  "loot-boxes-paid-open-loop": {
+    "name": "Betaalde lootboxes met open lus"
+  },
+  "send-gifts": {
+    "name": "Cadeaus versturen"
+  },
+  "simulated-gambling": {
+    "name": "Gesimuleerd gokken"
+  },
+  "virtual-property-ownership": {
+    "name": "Virtueel eigendom"
+  },
+  "camera-access": {
+    "name": "Cameratoegang"
+  },
+  "share-game-clips-screenshots": {
+    "name": "App-clips en schermafbeeldingen delen"
+  },
+  "photo-video-sharing": {
+    "name": "Foto's en video's delen"
+  },
+  "real-time-location-sharing": {
+    "name": "Precieze locatie delen"
+  },
+  "mods": {
+    "name": "Door gebruikers gegenereerde inhoud"
+  },
+  "gameplay-streaming": {
+    "name": "Streamen"
+  },
+  "gameplay-recording": {
+    "name": "Opnemen"
+  },
+  "link-to-third-party-streaming-app": {
+    "name": "Koppeling naar externe streaming-app"
+  },
+  "ai-chat": {
+    "name": "AI-chat"
+  },
+  "ai-voice-mode": {
+    "name": "AI-spraakmodus"
+  },
+  "ai-memory": {
+    "name": "AI-geheugen"
+  },
+  "ai-media-generation": {
+    "name": "AI-mediageneratie"
+  },
+  "ai-model-training": {
+    "name": "AI-modeltraining"
+  },
+  "ai-companion-chatbot": {
+    "name": "AI-metgezelchatbot"
+  },
+  "ai-media-upload": {
+    "name": "AI-media-upload"
+  },
+  "ai-text-chat": {
+    "name": "AI-tekstchat"
+  },
+  "ai-image-generation": {
+    "name": "AI-beeldgeneratie"
+  },
+  "ai-video-generation": {
+    "name": "AI-videogeneratie"
+  },
+  "ai-web-browsing": {
+    "name": "AI-webbrowsen"
+  },
+  "ai-code-execution": {
+    "name": "AI-code-uitvoering"
+  },
+  "ai-tool-use": {
+    "name": "AI-toolgebruik"
+  },
+  "ai-custom-models": {
+    "name": "Aangepaste AI-modellen"
+  },
+  "ai-generated-avatars": {
+    "name": "Door AI gegenereerde avatars"
+  },
+  "augmented-reality": {
+    "name": "Augmented reality"
+  },
+  "mature-language": {
+    "name": "Taalgebruik voor volwassenen"
+  },
+  "motion-data": {
+    "name": "Bewegingsgegevens"
+  },
+  "ai-chatbot": {
+    "name": "AI-chatbot"
+  },
+  "pvp": {
+    "name": "PvP"
+  },
+  "chat-rooms-public": {
+    "name": "Chatrooms (openbaar)"
+  },
+  "link-to-social-media-account": {
+    "name": "Koppeling naar socialemedia-account"
+  },
+  "auctions": {
+    "name": "Veilingen"
+  },
+  "virtual-marketplace": {
+    "name": "Virtuele marktplaats"
+  },
+  "contextual-ads": {
+    "name": "Contextuele advertenties"
+  },
+  "restricted-advertising-content": {
+    "name": "Beperkte advertentie-inhoud"
+  },
+  "disable-safety-prompts": {
+    "name": "Veiligheidsmeldingen uitschakelen"
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "multiplayer": {
+    "name": "Multipemain Online"
+  },
+  "leaderboard-and-rankings": {
+    "name": "Papan Peringkat dan Peringkat"
+  },
+  "join-groups": {
+    "name": "Gabung Grup"
+  },
+  "public-profile": {
+    "name": "Profil Publik"
+  },
+  "custom-avatar": {
+    "name": "Avatar Kustom"
+  },
+  "custom-username": {
+    "name": "Nama Pengguna Kustom"
+  },
+  "text-chat-private": {
+    "name": "Obrolan Teks (Pribadi)"
+  },
+  "text-chat-public": {
+    "name": "Obrolan Teks (Publik)"
+  },
+  "voice-chat": {
+    "name": "Obrolan Suara"
+  },
+  "video-chat": {
+    "name": "Obrolan Video"
+  },
+  "online-status": {
+    "name": "Status Online"
+  },
+  "public-friend-list": {
+    "name": "Daftar Teman Publik"
+  },
+  "send-accept-friend-requests": {
+    "name": "Kirim dan Terima Permintaan Pertemanan"
+  },
+  "link-to-third-party-chat": {
+    "name": "Tautkan ke Obrolan Pihak Ketiga"
+  },
+  "virtual-events": {
+    "name": "Acara Virtual"
+  },
+  "personalized-recommendations": {
+    "name": "Rekomendasi yang Dipersonalisasi"
+  },
+  "targeted-ads": {
+    "name": "Iklan Bertarget"
+  },
+  "profiling": {
+    "name": "Pembuatan Profil"
+  },
+  "push-notifications": {
+    "name": "Notifikasi Push"
+  },
+  "share-to-social-media": {
+    "name": "Bagikan ke Media Sosial"
+  },
+  "direct-marketing": {
+    "name": "Pemasaran Langsung"
+  },
+  "forums": {
+    "name": "Forum"
+  },
+  "in-game-purchases": {
+    "name": "Pembelian Dalam Aplikasi"
+  },
+  "loot-boxes-paid-cosmetic-only": {
+    "name": "Kotak Jarahan Berbayar (Hanya Kosmetik)"
+  },
+  "loot-boxes-paid-gameplay-impacting": {
+    "name": "Loot Box Memengaruhi Gameplay Berbayar"
+  },
+  "loot-boxes-kompu-gacha": {
+    "name": "Kotak Jarahan Kompu Gacha"
+  },
+  "loot-boxes-paid-open-loop": {
+    "name": "Kotak Jarahan Berbayar (Loop Terbuka)"
+  },
+  "send-gifts": {
+    "name": "Kirim Hadiah"
+  },
+  "simulated-gambling": {
+    "name": "Perjudian Simulasi"
+  },
+  "virtual-property-ownership": {
+    "name": "Kepemilikan Properti Virtual"
+  },
+  "camera-access": {
+    "name": "Akses Kamera"
+  },
+  "share-game-clips-screenshots": {
+    "name": "Bagikan Klip Permainan Tangkapan Layar"
+  },
+  "photo-video-sharing": {
+    "name": "Berbagi Foto dan Video"
+  },
+  "real-time-location-sharing": {
+    "name": "Berbagi Lokasi Tepat"
+  },
+  "mods": {
+    "name": "Konten Buatan Pengguna"
+  },
+  "gameplay-streaming": {
+    "name": "Streaming Permainan"
+  },
+  "gameplay-recording": {
+    "name": "Perekaman Permainan"
+  },
+  "link-to-third-party-streaming-app": {
+    "name": "Tautkan ke Aplikasi Streaming Pihak Ketiga"
+  },
+  "ai-chat": {
+    "name": "Obrolan AI"
+  },
+  "ai-voice-mode": {
+    "name": "Mode Suara AI"
+  },
+  "ai-memory": {
+    "name": "Memori AI"
+  },
+  "ai-media-generation": {
+    "name": "Pembuatan Media AI"
+  },
+  "ai-model-training": {
+    "name": "Pelatihan Model AI"
+  },
+  "ai-companion-chatbot": {
+    "name": "Chatbot Pendamping AI"
+  },
+  "ai-media-upload": {
+    "name": "Unggah Media AI"
+  },
+  "ai-text-chat": {
+    "name": "Obrolan Teks AI"
+  },
+  "ai-image-generation": {
+    "name": "Pembuatan Gambar AI"
+  },
+  "ai-video-generation": {
+    "name": "Pembuatan Video AI"
+  },
+  "ai-web-browsing": {
+    "name": "Penjelajahan Web AI"
+  },
+  "ai-code-execution": {
+    "name": "Eksekusi Kode AI"
+  },
+  "ai-tool-use": {
+    "name": "Penggunaan Alat AI"
+  },
+  "ai-custom-models": {
+    "name": "Model AI Khusus"
+  },
+  "ai-generated-avatars": {
+    "name": "Avatar Buatan AI"
+  },
+  "augmented-reality": {
+    "name": "Realitas Tertambah"
+  },
+  "mature-language": {
+    "name": "Bahasa Dewasa"
+  },
+  "motion-data": {
+    "name": "Data Gerak"
+  },
+  "ai-chatbot": {
+    "name": "Chatbot AI"
+  },
+  "pvp": {
+    "name": "PvP"
+  },
+  "chat-rooms-public": {
+    "name": "Ruang Obrolan (Publik)"
+  },
+  "link-to-social-media-account": {
+    "name": "Tautkan ke Akun Media Sosial"
+  },
+  "auctions": {
+    "name": "Lelang"
+  },
+  "virtual-marketplace": {
+    "name": "Pasar Virtual"
+  },
+  "contextual-ads": {
+    "name": "Iklan Kontekstual"
+  },
+  "restricted-advertising-content": {
+    "name": "Konten Iklan Terbatas"
+  },
+  "disable-safety-prompts": {
+    "name": "Nonaktifkan Pemberitahuan Keamanan"
+  }
+}

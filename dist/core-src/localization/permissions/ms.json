@@ -1,0 +1,197 @@
+{
+  "multiplayer": {
+    "name": "Multipemain Dalam Talian"
+  },
+  "leaderboard-and-rankings": {
+    "name": "Papan Pendahulu dan Kedudukan"
+  },
+  "join-groups": {
+    "name": "Menyertai Kumpulan"
+  },
+  "public-profile": {
+    "name": "Profil Awam"
+  },
+  "custom-avatar": {
+    "name": "Avatar Tersuai"
+  },
+  "custom-username": {
+    "name": "Nama Pengguna Tersuai"
+  },
+  "text-chat-private": {
+    "name": "Sembang Teks (Peribadi)"
+  },
+  "text-chat-public": {
+    "name": "Sembang Teks (Awam)"
+  },
+  "voice-chat": {
+    "name": "Sembang Suara"
+  },
+  "video-chat": {
+    "name": "Sembang Video"
+  },
+  "online-status": {
+    "name": "Status Dalam Talian"
+  },
+  "public-friend-list": {
+    "name": "Senarai Rakan Awam"
+  },
+  "send-accept-friend-requests": {
+    "name": "Hantar dan Terima Permintaan Rakan"
+  },
+  "link-to-third-party-chat": {
+    "name": "Pautan ke Sembang Pihak Ketiga"
+  },
+  "virtual-events": {
+    "name": "Acara Maya"
+  },
+  "personalized-recommendations": {
+    "name": "Cadangan Diperibadikan"
+  },
+  "targeted-ads": {
+    "name": "Iklan Bersasar"
+  },
+  "profiling": {
+    "name": "Pemprofilan"
+  },
+  "push-notifications": {
+    "name": "Pemberitahuan Tolak"
+  },
+  "share-to-social-media": {
+    "name": "Kongsi ke Media Sosial"
+  },
+  "direct-marketing": {
+    "name": "Pemasaran Langsung"
+  },
+  "forums": {
+    "name": "Forum"
+  },
+  "in-game-purchases": {
+    "name": "Pembelian Dalam Aplikasi"
+  },
+  "loot-boxes-paid-cosmetic-only": {
+    "name": "Kotak Harta Karun Berbayar (Kosmetik Sahaja)"
+  },
+  "loot-boxes-paid-gameplay-impacting": {
+    "name": "Kotak Harta Karun Berbayar yang Memberi Kesan kepada Penggunaan"
+  },
+  "loot-boxes-kompu-gacha": {
+    "name": "Kotak Harta Karun Kompu Gacha"
+  },
+  "loot-boxes-paid-open-loop": {
+    "name": "Kotak Harta Karun Berbayar Gelung Terbuka"
+  },
+  "send-gifts": {
+    "name": "Hantar Hadiah"
+  },
+  "simulated-gambling": {
+    "name": "Perjudian Simulasi"
+  },
+  "virtual-property-ownership": {
+    "name": "Pemilikan Harta Maya"
+  },
+  "camera-access": {
+    "name": "Akses Kamera"
+  },
+  "share-game-clips-screenshots": {
+    "name": "Kongsi Klip dan Tangkapan Skrin Aplikasi"
+  },
+  "photo-video-sharing": {
+    "name": "Perkongsian Foto dan Video"
+  },
+  "real-time-location-sharing": {
+    "name": "Perkongsian Lokasi Tepat"
+  },
+  "mods": {
+    "name": "Kandungan Janaan Pengguna"
+  },
+  "gameplay-streaming": {
+    "name": "Penstriman"
+  },
+  "gameplay-recording": {
+    "name": "Rakaman"
+  },
+  "link-to-third-party-streaming-app": {
+    "name": "Pautan ke Aplikasi Penstriman Pihak Ketiga"
+  },
+  "ai-chat": {
+    "name": "Sembang AI"
+  },
+  "ai-voice-mode": {
+    "name": "Mod Suara AI"
+  },
+  "ai-memory": {
+    "name": "Ingatan AI"
+  },
+  "ai-media-generation": {
+    "name": "Penjanaan Media AI"
+  },
+  "ai-model-training": {
+    "name": "Latihan Model AI"
+  },
+  "ai-companion-chatbot": {
+    "name": "Chatbot Rakan AI"
+  },
+  "ai-media-upload": {
+    "name": "Muat Naik Media AI"
+  },
+  "ai-text-chat": {
+    "name": "Sembang Teks AI"
+  },
+  "ai-image-generation": {
+    "name": "Penjanaan Imej AI"
+  },
+  "ai-video-generation": {
+    "name": "Penjanaan Video AI"
+  },
+  "ai-web-browsing": {
+    "name": "Penyemakan Imbas Web AI"
+  },
+  "ai-code-execution": {
+    "name": "Pelaksanaan Kod AI"
+  },
+  "ai-tool-use": {
+    "name": "Penggunaan Alat AI"
+  },
+  "ai-custom-models": {
+    "name": "Model Tersuai AI"
+  },
+  "ai-generated-avatars": {
+    "name": "Avatar Janaan AI"
+  },
+  "augmented-reality": {
+    "name": "Realiti Terimbuh"
+  },
+  "mature-language": {
+    "name": "Bahasa Dewasa"
+  },
+  "motion-data": {
+    "name": "Data Pergerakan"
+  },
+  "ai-chatbot": {
+    "name": "Chatbot AI"
+  },
+  "pvp": {
+    "name": "PvP"
+  },
+  "chat-rooms-public": {
+    "name": "Bilik Sembang (Awam)"
+  },
+  "link-to-social-media-account": {
+    "name": "Pautan ke Akaun Media Sosial"
+  },
+  "auctions": {
+    "name": "Lelongan"
+  },
+  "virtual-marketplace": {
+    "name": "Pasaran Maya"
+  },
+  "contextual-ads": {
+    "name": "Iklan Kontekstual"
+  },
+  "restricted-advertising-content": {
+    "name": "Kandungan Iklan Terhad"
+  },
+  "disable-safety-prompts": {
+    "name": "Lumpuhkan Gesaan Keselamatan"
+  }
+}

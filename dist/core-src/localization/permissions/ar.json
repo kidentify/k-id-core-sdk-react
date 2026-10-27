@@ -1,0 +1,197 @@
+{
+  "multiplayer": {
+    "name": "اللعب الجماعي عبر الإنترنت"
+  },
+  "leaderboard-and-rankings": {
+    "name": "لوحة المتصدرين والترتيب"
+  },
+  "join-groups": {
+    "name": "الانضمام إلى المجموعات"
+  },
+  "public-profile": {
+    "name": "الملف الشخصي العام"
+  },
+  "custom-avatar": {
+    "name": "صورة رمزية مخصصة"
+  },
+  "custom-username": {
+    "name": "اسم مستخدم مخصص"
+  },
+  "text-chat-private": {
+    "name": "دردشة نصية (خاصة)"
+  },
+  "text-chat-public": {
+    "name": "دردشة نصية (عامة)"
+  },
+  "voice-chat": {
+    "name": "دردشة صوتية"
+  },
+  "video-chat": {
+    "name": "دردشة فيديو"
+  },
+  "online-status": {
+    "name": "حالة الاتصال"
+  },
+  "public-friend-list": {
+    "name": "قائمة الأصدقاء العامة"
+  },
+  "send-accept-friend-requests": {
+    "name": "إرسال طلبات الصداقة وقبولها"
+  },
+  "link-to-third-party-chat": {
+    "name": "ربط بدردشة طرف ثالث"
+  },
+  "virtual-events": {
+    "name": "فعاليات افتراضية"
+  },
+  "personalized-recommendations": {
+    "name": "توصيات مخصصة"
+  },
+  "targeted-ads": {
+    "name": "إعلانات مستهدفة"
+  },
+  "profiling": {
+    "name": "التنميط"
+  },
+  "push-notifications": {
+    "name": "إشعارات فورية"
+  },
+  "share-to-social-media": {
+    "name": "المشاركة على وسائل التواصل الاجتماعي"
+  },
+  "direct-marketing": {
+    "name": "تسويق مباشر"
+  },
+  "forums": {
+    "name": "منتديات"
+  },
+  "in-game-purchases": {
+    "name": "عمليات الشراء داخل التطبيق"
+  },
+  "loot-boxes-paid-cosmetic-only": {
+    "name": "صناديق الغنائم المدفوعة (تجميلية فقط)"
+  },
+  "loot-boxes-paid-gameplay-impacting": {
+    "name": "صناديق الغنيمة المدفوعة التي تؤثر على طريقة اللعب"
+  },
+  "loot-boxes-kompu-gacha": {
+    "name": "صناديق الغنائم كومبو غاشا"
+  },
+  "loot-boxes-paid-open-loop": {
+    "name": "صناديق الغنائم المدفوعة (حلقة مفتوحة)"
+  },
+  "send-gifts": {
+    "name": "إرسال الهدايا"
+  },
+  "simulated-gambling": {
+    "name": "قمار محاكى"
+  },
+  "virtual-property-ownership": {
+    "name": "ملكية افتراضية للممتلكات"
+  },
+  "camera-access": {
+    "name": "الوصول إلى الكاميرا"
+  },
+  "share-game-clips-screenshots": {
+    "name": "مشاركة مقاطع اللعب ولقطات الشاشة"
+  },
+  "photo-video-sharing": {
+    "name": "مشاركة الصور ومقاطع الفيديو"
+  },
+  "real-time-location-sharing": {
+    "name": "مشاركة الموقع بدقة"
+  },
+  "mods": {
+    "name": "محتوى من إنشاء المستخدمين"
+  },
+  "gameplay-streaming": {
+    "name": "بث اللعب"
+  },
+  "gameplay-recording": {
+    "name": "تسجيل اللعب"
+  },
+  "link-to-third-party-streaming-app": {
+    "name": "ربط بتطبيق بث مباشر لطرف ثالث"
+  },
+  "ai-chat": {
+    "name": "الدردشة بالذكاء الاصطناعي"
+  },
+  "ai-voice-mode": {
+    "name": "وضع الصوت بالذكاء الاصطناعي"
+  },
+  "ai-memory": {
+    "name": "ذاكرة الذكاء الاصطناعي"
+  },
+  "ai-media-generation": {
+    "name": "إنشاء الوسائط بالذكاء الاصطناعي"
+  },
+  "ai-model-training": {
+    "name": "تدريب نماذج الذكاء الاصطناعي"
+  },
+  "ai-companion-chatbot": {
+    "name": "روبوت الدردشة المرافق بالذكاء الاصطناعي"
+  },
+  "ai-media-upload": {
+    "name": "رفع الوسائط إلى الذكاء الاصطناعي"
+  },
+  "ai-text-chat": {
+    "name": "الدردشة النصية بالذكاء الاصطناعي"
+  },
+  "ai-image-generation": {
+    "name": "إنشاء الصور بالذكاء الاصطناعي"
+  },
+  "ai-video-generation": {
+    "name": "إنشاء مقاطع الفيديو بالذكاء الاصطناعي"
+  },
+  "ai-web-browsing": {
+    "name": "تصفح الويب بالذكاء الاصطناعي"
+  },
+  "ai-code-execution": {
+    "name": "تنفيذ التعليمات البرمجية بالذكاء الاصطناعي"
+  },
+  "ai-tool-use": {
+    "name": "استخدام الأدوات بالذكاء الاصطناعي"
+  },
+  "ai-custom-models": {
+    "name": "النماذج المخصصة للذكاء الاصطناعي"
+  },
+  "ai-generated-avatars": {
+    "name": "صور رمزية تم إنشاؤها بواسطة الذكاء الاصطناعي"
+  },
+  "augmented-reality": {
+    "name": "الواقع المعزز"
+  },
+  "mature-language": {
+    "name": "لغة غير لائقة"
+  },
+  "motion-data": {
+    "name": "بيانات الحركة"
+  },
+  "ai-chatbot": {
+    "name": "روبوت الدردشة بالذكاء الاصطناعي"
+  },
+  "pvp": {
+    "name": "لاعب ضد لاعب"
+  },
+  "chat-rooms-public": {
+    "name": "غرف الدردشة (عامة)"
+  },
+  "link-to-social-media-account": {
+    "name": "ربط بحساب وسائل التواصل الاجتماعي"
+  },
+  "auctions": {
+    "name": "مزادات"
+  },
+  "virtual-marketplace": {
+    "name": "سوق افتراضي"
+  },
+  "contextual-ads": {
+    "name": "إعلانات سياقية"
+  },
+  "restricted-advertising-content": {
+    "name": "محتوى إعلاني مقيّد"
+  },
+  "disable-safety-prompts": {
+    "name": "تعطيل مطالبات الأمان"
+  }
+}

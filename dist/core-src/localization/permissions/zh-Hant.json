@@ -1,0 +1,197 @@
+{
+  "multiplayer": {
+    "name": "線上多人遊戲"
+  },
+  "leaderboard-and-rankings": {
+    "name": "排行榜和排名"
+  },
+  "join-groups": {
+    "name": "加入群組"
+  },
+  "public-profile": {
+    "name": "公開個人資料"
+  },
+  "custom-avatar": {
+    "name": "自訂虛擬人偶"
+  },
+  "custom-username": {
+    "name": "自訂使用者名稱"
+  },
+  "text-chat-private": {
+    "name": "文字聊天 (私人)"
+  },
+  "text-chat-public": {
+    "name": "文字聊天 (公開)"
+  },
+  "voice-chat": {
+    "name": "語音聊天"
+  },
+  "video-chat": {
+    "name": "視訊聊天"
+  },
+  "online-status": {
+    "name": "線上狀態"
+  },
+  "public-friend-list": {
+    "name": "公開朋友列表"
+  },
+  "send-accept-friend-requests": {
+    "name": "傳送及接受好友邀請"
+  },
+  "link-to-third-party-chat": {
+    "name": "連結至第三方聊天"
+  },
+  "virtual-events": {
+    "name": "虛擬活動"
+  },
+  "personalized-recommendations": {
+    "name": "個人化推薦"
+  },
+  "targeted-ads": {
+    "name": "目標式廣告"
+  },
+  "profiling": {
+    "name": "用戶分析"
+  },
+  "push-notifications": {
+    "name": "推播通知"
+  },
+  "share-to-social-media": {
+    "name": "分享至社群媒體"
+  },
+  "direct-marketing": {
+    "name": "直效行銷"
+  },
+  "forums": {
+    "name": "論壇"
+  },
+  "in-game-purchases": {
+    "name": "應用程式內購"
+  },
+  "loot-boxes-paid-cosmetic-only": {
+    "name": "付費造型盲盒"
+  },
+  "loot-boxes-paid-gameplay-impacting": {
+    "name": "付費戰利品箱影響遊戲體驗"
+  },
+  "loot-boxes-kompu-gacha": {
+    "name": "盲盒 Kompu Gacha"
+  },
+  "loot-boxes-paid-open-loop": {
+    "name": "付費開放循環盲盒"
+  },
+  "send-gifts": {
+    "name": "傳送禮物"
+  },
+  "simulated-gambling": {
+    "name": "模擬賭博"
+  },
+  "virtual-property-ownership": {
+    "name": "虛擬財產所有權"
+  },
+  "camera-access": {
+    "name": "相機存取"
+  },
+  "share-game-clips-screenshots": {
+    "name": "分享遊戲片段和螢幕截圖"
+  },
+  "photo-video-sharing": {
+    "name": "照片影片分享"
+  },
+  "real-time-location-sharing": {
+    "name": "精確位置分享"
+  },
+  "mods": {
+    "name": "使用者生成內容"
+  },
+  "gameplay-streaming": {
+    "name": "遊戲直播"
+  },
+  "gameplay-recording": {
+    "name": "遊戲錄影"
+  },
+  "link-to-third-party-streaming-app": {
+    "name": "連結至第三方串流應用程式"
+  },
+  "ai-chat": {
+    "name": "AI 聊天"
+  },
+  "ai-voice-mode": {
+    "name": "AI 語音模式"
+  },
+  "ai-memory": {
+    "name": "AI 記憶"
+  },
+  "ai-media-generation": {
+    "name": "AI 媒體生成"
+  },
+  "ai-model-training": {
+    "name": "AI 模型訓練"
+  },
+  "ai-companion-chatbot": {
+    "name": "AI 陪伴聊天機器人"
+  },
+  "ai-media-upload": {
+    "name": "AI 媒體上傳"
+  },
+  "ai-text-chat": {
+    "name": "AI 文字聊天"
+  },
+  "ai-image-generation": {
+    "name": "AI 圖像生成"
+  },
+  "ai-video-generation": {
+    "name": "AI 影片生成"
+  },
+  "ai-web-browsing": {
+    "name": "AI 網頁瀏覽"
+  },
+  "ai-code-execution": {
+    "name": "AI 程式碼執行"
+  },
+  "ai-tool-use": {
+    "name": "AI 工具使用"
+  },
+  "ai-custom-models": {
+    "name": "AI 自訂模型"
+  },
+  "ai-generated-avatars": {
+    "name": "AI 生成虛擬人偶"
+  },
+  "augmented-reality": {
+    "name": "擴增實境"
+  },
+  "mature-language": {
+    "name": "成人內容語言"
+  },
+  "motion-data": {
+    "name": "動作資料"
+  },
+  "ai-chatbot": {
+    "name": "AI 聊天機器人"
+  },
+  "pvp": {
+    "name": "玩家對戰"
+  },
+  "chat-rooms-public": {
+    "name": "聊天室 (公開)"
+  },
+  "link-to-social-media-account": {
+    "name": "連結至社群媒體帳戶"
+  },
+  "auctions": {
+    "name": "拍賣"
+  },
+  "virtual-marketplace": {
+    "name": "虛擬市集"
+  },
+  "contextual-ads": {
+    "name": "情境廣告"
+  },
+  "restricted-advertising-content": {
+    "name": "受限制的廣告內容"
+  },
+  "disable-safety-prompts": {
+    "name": "停用安全提示"
+  }
+}

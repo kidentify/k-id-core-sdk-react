@@ -1,0 +1,197 @@
+{
+  "multiplayer": {
+    "name": "온라인 멀티플레이어"
+  },
+  "leaderboard-and-rankings": {
+    "name": "리더보드 및 순위"
+  },
+  "join-groups": {
+    "name": "그룹 가입"
+  },
+  "public-profile": {
+    "name": "공개 프로필"
+  },
+  "custom-avatar": {
+    "name": "사용자 지정 아바타"
+  },
+  "custom-username": {
+    "name": "사용자 지정 사용자 이름"
+  },
+  "text-chat-private": {
+    "name": "텍스트 채팅 (비공개)"
+  },
+  "text-chat-public": {
+    "name": "텍스트 채팅 (공개)"
+  },
+  "voice-chat": {
+    "name": "음성 채팅"
+  },
+  "video-chat": {
+    "name": "화상 채팅"
+  },
+  "online-status": {
+    "name": "온라인 상태"
+  },
+  "public-friend-list": {
+    "name": "공개 친구 목록"
+  },
+  "send-accept-friend-requests": {
+    "name": "친구 요청 보내기/수락"
+  },
+  "link-to-third-party-chat": {
+    "name": "서드파티 채팅 연결"
+  },
+  "virtual-events": {
+    "name": "가상 이벤트"
+  },
+  "personalized-recommendations": {
+    "name": "개인화된 추천"
+  },
+  "targeted-ads": {
+    "name": "타겟 광고"
+  },
+  "profiling": {
+    "name": "프로파일링"
+  },
+  "push-notifications": {
+    "name": "푸시 알림"
+  },
+  "share-to-social-media": {
+    "name": "소셜 미디어 공유"
+  },
+  "direct-marketing": {
+    "name": "다이렉트 마케팅"
+  },
+  "forums": {
+    "name": "포럼"
+  },
+  "in-game-purchases": {
+    "name": "인앱 구매"
+  },
+  "loot-boxes-paid-cosmetic-only": {
+    "name": "유료 코스메틱 전용 루트 박스"
+  },
+  "loot-boxes-paid-gameplay-impacting": {
+    "name": "유료 사용 영향 루트 박스"
+  },
+  "loot-boxes-kompu-gacha": {
+    "name": "콤프 가챠 루트 박스"
+  },
+  "loot-boxes-paid-open-loop": {
+    "name": "유료 오픈 루프 루트 박스"
+  },
+  "send-gifts": {
+    "name": "선물 보내기"
+  },
+  "simulated-gambling": {
+    "name": "모의 도박"
+  },
+  "virtual-property-ownership": {
+    "name": "가상 자산 소유권"
+  },
+  "camera-access": {
+    "name": "카메라 접근"
+  },
+  "share-game-clips-screenshots": {
+    "name": "앱 클립 스크린샷 공유"
+  },
+  "photo-video-sharing": {
+    "name": "사진/동영상 공유"
+  },
+  "real-time-location-sharing": {
+    "name": "정밀 위치 공유"
+  },
+  "mods": {
+    "name": "사용자 생성 콘텐츠"
+  },
+  "gameplay-streaming": {
+    "name": "스트리밍"
+  },
+  "gameplay-recording": {
+    "name": "녹화"
+  },
+  "link-to-third-party-streaming-app": {
+    "name": "타사 스트리밍 앱 링크"
+  },
+  "ai-chat": {
+    "name": "AI 채팅"
+  },
+  "ai-voice-mode": {
+    "name": "AI 음성 모드"
+  },
+  "ai-memory": {
+    "name": "AI 메모리"
+  },
+  "ai-media-generation": {
+    "name": "AI 미디어 생성"
+  },
+  "ai-model-training": {
+    "name": "AI 모델 학습"
+  },
+  "ai-companion-chatbot": {
+    "name": "AI 컴패니언 챗봇"
+  },
+  "ai-media-upload": {
+    "name": "AI 미디어 업로드"
+  },
+  "ai-text-chat": {
+    "name": "AI 텍스트 채팅"
+  },
+  "ai-image-generation": {
+    "name": "AI 이미지 생성"
+  },
+  "ai-video-generation": {
+    "name": "AI 비디오 생성"
+  },
+  "ai-web-browsing": {
+    "name": "AI 웹 브라우징"
+  },
+  "ai-code-execution": {
+    "name": "AI 코드 실행"
+  },
+  "ai-tool-use": {
+    "name": "AI 도구 사용"
+  },
+  "ai-custom-models": {
+    "name": "AI 커스텀 모델"
+  },
+  "ai-generated-avatars": {
+    "name": "AI 생성 아바타"
+  },
+  "augmented-reality": {
+    "name": "증강 현실"
+  },
+  "mature-language": {
+    "name": "성인용 언어"
+  },
+  "motion-data": {
+    "name": "모션 데이터"
+  },
+  "ai-chatbot": {
+    "name": "AI 챗봇"
+  },
+  "pvp": {
+    "name": "PvP"
+  },
+  "chat-rooms-public": {
+    "name": "채팅방 (공개)"
+  },
+  "link-to-social-media-account": {
+    "name": "소셜 미디어 계정 연결"
+  },
+  "auctions": {
+    "name": "경매"
+  },
+  "virtual-marketplace": {
+    "name": "가상 마켓플레이스"
+  },
+  "contextual-ads": {
+    "name": "문맥 기반 광고"
+  },
+  "restricted-advertising-content": {
+    "name": "제한 광고 콘텐츠"
+  },
+  "disable-safety-prompts": {
+    "name": "안전 프롬프트 비활성화"
+  }
+}

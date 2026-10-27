@@ -1,0 +1,54 @@
+{
+  "name": "@k-id/core-react",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Age assurance and parental consent for React apps, by k-ID.",
+  "keywords": [
+    "k-id",
+    "age-verification",
+    "age-assurance",
+    "parental-consent",
+    "react"
+  ],
+  "homepage": "https://github.com/kidentify/k-id-core-sdk-react",
+  "bugs": {
+    "email": "support@k-id.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kidentify/k-id-core-sdk-react.git"
+  },
+  "license": "Apache-2.0",
+  "author": "k-ID <support@k-id.com>",
+  "sideEffects": false,
+  "exports": {
+    ".": {
+      "types": "./dist/types/index.d.ts",
+      "import": "./dist/index.js",
+      "default": "./dist/index.js"
+    },
+    "./localizations": {
+      "types": "./dist/types/localization/index.d.ts",
+      "import": "./dist/localizations.js",
+      "default": "./dist/localizations.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "dist",
+    "!dist/internal.*",
+    "!dist/types/internal.*",
+    "src",
+    "!src/internal.ts",
+    "PERMISSIONS.md",
+    "CHANGELOG.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0 || ^19.0.0",
+    "react-dom": "^18.0.0 || ^19.0.0"
+  }
+}

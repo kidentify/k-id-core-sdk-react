@@ -1,0 +1,197 @@
+{
+  "multiplayer": {
+    "name": "Multijugador en línea"
+  },
+  "leaderboard-and-rankings": {
+    "name": "Tabla de clasificación y rankings"
+  },
+  "join-groups": {
+    "name": "Unirse a grupos"
+  },
+  "public-profile": {
+    "name": "Perfil público"
+  },
+  "custom-avatar": {
+    "name": "Avatar personalizado"
+  },
+  "custom-username": {
+    "name": "Nombre de usuario personalizado"
+  },
+  "text-chat-private": {
+    "name": "Chat de texto (privado)"
+  },
+  "text-chat-public": {
+    "name": "Chat de texto (público)"
+  },
+  "voice-chat": {
+    "name": "Chat de voz"
+  },
+  "video-chat": {
+    "name": "Videochat"
+  },
+  "online-status": {
+    "name": "Estado en línea"
+  },
+  "public-friend-list": {
+    "name": "Lista de amigos pública"
+  },
+  "send-accept-friend-requests": {
+    "name": "Enviar y aceptar solicitudes de amistad"
+  },
+  "link-to-third-party-chat": {
+    "name": "Vincular a chat de terceros"
+  },
+  "virtual-events": {
+    "name": "Eventos virtuales"
+  },
+  "personalized-recommendations": {
+    "name": "Recomendaciones personalizadas"
+  },
+  "targeted-ads": {
+    "name": "Anuncios dirigidos"
+  },
+  "profiling": {
+    "name": "Elaboración de perfiles"
+  },
+  "push-notifications": {
+    "name": "Notificaciones push"
+  },
+  "share-to-social-media": {
+    "name": "Compartir en redes sociales"
+  },
+  "direct-marketing": {
+    "name": "Marketing directo"
+  },
+  "forums": {
+    "name": "Foros"
+  },
+  "in-game-purchases": {
+    "name": "Compras dentro de la aplicación"
+  },
+  "loot-boxes-paid-cosmetic-only": {
+    "name": "Cajas de botín de pago (solo cosméticos)"
+  },
+  "loot-boxes-paid-gameplay-impacting": {
+    "name": "Cajas de botín que afectan la jugabilidad de pago"
+  },
+  "loot-boxes-kompu-gacha": {
+    "name": "Cajas de botín Kompu Gacha"
+  },
+  "loot-boxes-paid-open-loop": {
+    "name": "Cajas de botín de pago (ciclo abierto)"
+  },
+  "send-gifts": {
+    "name": "Enviar regalos"
+  },
+  "simulated-gambling": {
+    "name": "Apuestas simuladas"
+  },
+  "virtual-property-ownership": {
+    "name": "Propiedad virtual"
+  },
+  "camera-access": {
+    "name": "Acceso a la cámara"
+  },
+  "share-game-clips-screenshots": {
+    "name": "Compartir clips de juego y capturas de pantalla"
+  },
+  "photo-video-sharing": {
+    "name": "Compartir fotos y videos"
+  },
+  "real-time-location-sharing": {
+    "name": "Compartir ubicación precisa"
+  },
+  "mods": {
+    "name": "Contenido generado por el usuario"
+  },
+  "gameplay-streaming": {
+    "name": "Transmisión de juego"
+  },
+  "gameplay-recording": {
+    "name": "Grabación de juego"
+  },
+  "link-to-third-party-streaming-app": {
+    "name": "Vincular a aplicación de transmisión de terceros"
+  },
+  "ai-chat": {
+    "name": "Chat con IA"
+  },
+  "ai-voice-mode": {
+    "name": "Modo de voz con IA"
+  },
+  "ai-memory": {
+    "name": "Memoria de la IA"
+  },
+  "ai-media-generation": {
+    "name": "Generación de contenido multimedia con IA"
+  },
+  "ai-model-training": {
+    "name": "Entrenamiento de modelos de IA"
+  },
+  "ai-companion-chatbot": {
+    "name": "Chatbot acompañante de IA"
+  },
+  "ai-media-upload": {
+    "name": "Carga de contenido multimedia a la IA"
+  },
+  "ai-text-chat": {
+    "name": "Chat de texto con IA"
+  },
+  "ai-image-generation": {
+    "name": "Generación de imágenes con IA"
+  },
+  "ai-video-generation": {
+    "name": "Generación de video con IA"
+  },
+  "ai-web-browsing": {
+    "name": "Navegación web con IA"
+  },
+  "ai-code-execution": {
+    "name": "Ejecución de código con IA"
+  },
+  "ai-tool-use": {
+    "name": "Uso de herramientas por la IA"
+  },
+  "ai-custom-models": {
+    "name": "Modelos de IA personalizados"
+  },
+  "ai-generated-avatars": {
+    "name": "Avatares generados por IA"
+  },
+  "augmented-reality": {
+    "name": "Realidad Aumentada"
+  },
+  "mature-language": {
+    "name": "Lenguaje para adultos"
+  },
+  "motion-data": {
+    "name": "Datos de movimiento"
+  },
+  "ai-chatbot": {
+    "name": "Chatbot de IA"
+  },
+  "pvp": {
+    "name": "PvP"
+  },
+  "chat-rooms-public": {
+    "name": "Salas de chat (públicas)"
+  },
+  "link-to-social-media-account": {
+    "name": "Vincular a cuenta de redes sociales"
+  },
+  "auctions": {
+    "name": "Subastas"
+  },
+  "virtual-marketplace": {
+    "name": "Mercado virtual"
+  },
+  "contextual-ads": {
+    "name": "Anuncios contextuales"
+  },
+  "restricted-advertising-content": {
+    "name": "Contenido publicitario restringido"
+  },
+  "disable-safety-prompts": {
+    "name": "Desactivar avisos de seguridad"
+  }
+}

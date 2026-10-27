@@ -1,0 +1,197 @@
+{
+  "multiplayer": {
+    "name": "ऑनलाइन मल्टीप्लेयर"
+  },
+  "leaderboard-and-rankings": {
+    "name": "लीडरबोर्ड और रैंकिंग"
+  },
+  "join-groups": {
+    "name": "समूह में शामिल हों"
+  },
+  "public-profile": {
+    "name": "सार्वजनिक प्रोफ़ाइल"
+  },
+  "custom-avatar": {
+    "name": "कस्टम अवतार"
+  },
+  "custom-username": {
+    "name": "कस्टम उपयोगकर्ता नाम"
+  },
+  "text-chat-private": {
+    "name": "टेक्स्ट चैट (निजी)"
+  },
+  "text-chat-public": {
+    "name": "टेक्स्ट चैट (सार्वजनिक)"
+  },
+  "voice-chat": {
+    "name": "वॉयस चैट"
+  },
+  "video-chat": {
+    "name": "वीडियो चैट"
+  },
+  "online-status": {
+    "name": "ऑनलाइन स्थिति"
+  },
+  "public-friend-list": {
+    "name": "सार्वजनिक मित्र सूची"
+  },
+  "send-accept-friend-requests": {
+    "name": "मित्र अनुरोध भेजें/स्वीकार करें"
+  },
+  "link-to-third-party-chat": {
+    "name": "तृतीय-पक्ष चैट से लिंक करें"
+  },
+  "virtual-events": {
+    "name": "वर्चुअल इवेंट्स"
+  },
+  "personalized-recommendations": {
+    "name": "वैयक्तिकृत सुझाव"
+  },
+  "targeted-ads": {
+    "name": "लक्षित विज्ञापन"
+  },
+  "profiling": {
+    "name": "प्रोफाइलिंग"
+  },
+  "push-notifications": {
+    "name": "पुश नोटिफिकेशन"
+  },
+  "share-to-social-media": {
+    "name": "सोशल मीडिया पर साझा करें"
+  },
+  "direct-marketing": {
+    "name": "प्रत्यक्ष विपणन"
+  },
+  "forums": {
+    "name": "फ़ोरम"
+  },
+  "in-game-purchases": {
+    "name": "इन-ऐप खरीदारी"
+  },
+  "loot-boxes-paid-cosmetic-only": {
+    "name": "लूट बॉक्स (केवल सशुल्क कॉस्मेटिक)"
+  },
+  "loot-boxes-paid-gameplay-impacting": {
+    "name": "लूट बॉक्स (सशुल्क उपयोग को प्रभावित करने वाले)"
+  },
+  "loot-boxes-kompu-gacha": {
+    "name": "लूट बॉक्स (कॉम्पु गाचा)"
+  },
+  "loot-boxes-paid-open-loop": {
+    "name": "लूट बॉक्स (सशुल्क ओपन लूप)"
+  },
+  "send-gifts": {
+    "name": "उपहार भेजें"
+  },
+  "simulated-gambling": {
+    "name": "अनुकरणीय जुआ"
+  },
+  "virtual-property-ownership": {
+    "name": "वर्चुअल संपत्ति स्वामित्व"
+  },
+  "camera-access": {
+    "name": "कैमरा एक्सेस"
+  },
+  "share-game-clips-screenshots": {
+    "name": "ऐप क्लिप स्क्रीनशॉट साझा करें"
+  },
+  "photo-video-sharing": {
+    "name": "फोटो वीडियो साझाकरण"
+  },
+  "real-time-location-sharing": {
+    "name": "सटीक स्थान साझाकरण"
+  },
+  "mods": {
+    "name": "उपयोगकर्ता-जनित सामग्री"
+  },
+  "gameplay-streaming": {
+    "name": "स्ट्रीमिंग"
+  },
+  "gameplay-recording": {
+    "name": "रिकॉर्डिंग"
+  },
+  "link-to-third-party-streaming-app": {
+    "name": "तृतीय-पक्ष स्ट्रीमिंग ऐप का लिंक"
+  },
+  "ai-chat": {
+    "name": "AI चैट"
+  },
+  "ai-voice-mode": {
+    "name": "AI वॉइस मोड"
+  },
+  "ai-memory": {
+    "name": "AI मेमोरी"
+  },
+  "ai-media-generation": {
+    "name": "AI मीडिया जनरेशन"
+  },
+  "ai-model-training": {
+    "name": "AI मॉडल प्रशिक्षण"
+  },
+  "ai-companion-chatbot": {
+    "name": "AI साथी चैटबॉट"
+  },
+  "ai-media-upload": {
+    "name": "AI मीडिया अपलोड"
+  },
+  "ai-text-chat": {
+    "name": "AI टेक्स्ट चैट"
+  },
+  "ai-image-generation": {
+    "name": "AI इमेज जनरेशन"
+  },
+  "ai-video-generation": {
+    "name": "AI वीडियो जनरेशन"
+  },
+  "ai-web-browsing": {
+    "name": "AI वेब ब्राउज़िंग"
+  },
+  "ai-code-execution": {
+    "name": "AI कोड एक्सीक्यूशन"
+  },
+  "ai-tool-use": {
+    "name": "AI टूल उपयोग"
+  },
+  "ai-custom-models": {
+    "name": "AI कस्टम मॉडल"
+  },
+  "ai-generated-avatars": {
+    "name": "AI-जनित अवतार"
+  },
+  "augmented-reality": {
+    "name": "ऑगमेंटेड रियलिटी"
+  },
+  "mature-language": {
+    "name": "परिपक्व भाषा"
+  },
+  "motion-data": {
+    "name": "मोशन डेटा"
+  },
+  "ai-chatbot": {
+    "name": "AI चैटबॉट"
+  },
+  "pvp": {
+    "name": "PvP"
+  },
+  "chat-rooms-public": {
+    "name": "सार्वजनिक चैट कक्ष"
+  },
+  "link-to-social-media-account": {
+    "name": "सोशल मीडिया खाते से लिंक"
+  },
+  "auctions": {
+    "name": "नीलामी"
+  },
+  "virtual-marketplace": {
+    "name": "वर्चुअल मार्केटप्लेस"
+  },
+  "contextual-ads": {
+    "name": "प्रासंगिक विज्ञापन"
+  },
+  "restricted-advertising-content": {
+    "name": "प्रतिबंधित विज्ञापन सामग्री"
+  },
+  "disable-safety-prompts": {
+    "name": "सुरक्षा संकेतों को अक्षम करें"
+  }
+}

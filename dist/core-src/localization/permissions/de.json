@@ -1,0 +1,197 @@
+{
+  "multiplayer": {
+    "name": "Online-Mehrspieler"
+  },
+  "leaderboard-and-rankings": {
+    "name": "Bestenlisten und Ranglisten"
+  },
+  "join-groups": {
+    "name": "Gruppen beitreten"
+  },
+  "public-profile": {
+    "name": "Öffentliches Profil"
+  },
+  "custom-avatar": {
+    "name": "Angepasster Avatar"
+  },
+  "custom-username": {
+    "name": "Angepasster Benutzername"
+  },
+  "text-chat-private": {
+    "name": "Text-Chat (privat)"
+  },
+  "text-chat-public": {
+    "name": "Text-Chat (öffentlich)"
+  },
+  "voice-chat": {
+    "name": "Sprachchat"
+  },
+  "video-chat": {
+    "name": "Videochat"
+  },
+  "online-status": {
+    "name": "Online-Status"
+  },
+  "public-friend-list": {
+    "name": "Öffentliche Freundesliste"
+  },
+  "send-accept-friend-requests": {
+    "name": "Freundschaftsanfragen annehmen/senden"
+  },
+  "link-to-third-party-chat": {
+    "name": "Verknüpfung mit Drittanbieter-Chats"
+  },
+  "virtual-events": {
+    "name": "Virtuelle Events"
+  },
+  "personalized-recommendations": {
+    "name": "Personalisierte Empfehlungen"
+  },
+  "targeted-ads": {
+    "name": "Zielgerichtete Werbung"
+  },
+  "profiling": {
+    "name": "Profilerstellung"
+  },
+  "push-notifications": {
+    "name": "Push-Benachrichtigungen"
+  },
+  "share-to-social-media": {
+    "name": "Teilen auf Social Media"
+  },
+  "direct-marketing": {
+    "name": "Direktmarketing"
+  },
+  "forums": {
+    "name": "Foren"
+  },
+  "in-game-purchases": {
+    "name": "In-Game-Käufe"
+  },
+  "loot-boxes-paid-cosmetic-only": {
+    "name": "Kostenpflichtige Lootboxen (nur kosmetische Artikel)"
+  },
+  "loot-boxes-paid-gameplay-impacting": {
+    "name": "Kostenpflichtige Lootboxen mit Gameplay-Einfluss"
+  },
+  "loot-boxes-kompu-gacha": {
+    "name": "Kompu Gacha und Lootboxen"
+  },
+  "loot-boxes-paid-open-loop": {
+    "name": "Kostenpflichtige Lootboxen öffnen"
+  },
+  "send-gifts": {
+    "name": "Verschicken von Geschenken"
+  },
+  "simulated-gambling": {
+    "name": "Simuliertes Glücksspiel"
+  },
+  "virtual-property-ownership": {
+    "name": "Virtueller Immobilienbesitz"
+  },
+  "camera-access": {
+    "name": "Kamerazugriff"
+  },
+  "share-game-clips-screenshots": {
+    "name": "Spielclips und Screenshots teilen"
+  },
+  "photo-video-sharing": {
+    "name": "Teilen von Fotos/Videos"
+  },
+  "real-time-location-sharing": {
+    "name": "Teilen des genauen Standorts"
+  },
+  "mods": {
+    "name": "Mods"
+  },
+  "gameplay-streaming": {
+    "name": "Gameplay-Streaming"
+  },
+  "gameplay-recording": {
+    "name": "Gameplay-Aufzeichnung"
+  },
+  "link-to-third-party-streaming-app": {
+    "name": "Verknüpfung mit Drittanbieter-Streaming-Apps"
+  },
+  "ai-chat": {
+    "name": "KI-Chat"
+  },
+  "ai-voice-mode": {
+    "name": "KI-Sprachmodus"
+  },
+  "ai-memory": {
+    "name": "KI-Gedächtnis"
+  },
+  "ai-media-generation": {
+    "name": "KI-Medienerzeugung"
+  },
+  "ai-model-training": {
+    "name": "KI-Modelltraining"
+  },
+  "ai-companion-chatbot": {
+    "name": "KI-Begleit-Chatbot"
+  },
+  "ai-media-upload": {
+    "name": "KI-Medien-Upload"
+  },
+  "ai-text-chat": {
+    "name": "KI-Text-Chat"
+  },
+  "ai-image-generation": {
+    "name": "KI-Bilderzeugung"
+  },
+  "ai-video-generation": {
+    "name": "KI-Videoerzeugung"
+  },
+  "ai-web-browsing": {
+    "name": "KI-Web-Browsing"
+  },
+  "ai-code-execution": {
+    "name": "KI-Codeausführung"
+  },
+  "ai-tool-use": {
+    "name": "KI-Werkzeugnutzung"
+  },
+  "ai-custom-models": {
+    "name": "Angepasste KI-Modelle"
+  },
+  "ai-generated-avatars": {
+    "name": "KI-generierte Avatare"
+  },
+  "augmented-reality": {
+    "name": "Augmented Reality"
+  },
+  "mature-language": {
+    "name": "Nicht jugendfreie Sprache"
+  },
+  "motion-data": {
+    "name": "Bewegungsdaten"
+  },
+  "ai-chatbot": {
+    "name": "KI-Chatbot"
+  },
+  "pvp": {
+    "name": "Spieler gegen Spieler"
+  },
+  "chat-rooms-public": {
+    "name": "Chaträume (öffentlich)"
+  },
+  "link-to-social-media-account": {
+    "name": "Verknüpfung mit Social-Media-Konto"
+  },
+  "auctions": {
+    "name": "Auktionen"
+  },
+  "virtual-marketplace": {
+    "name": "Virtueller Marktplatz"
+  },
+  "contextual-ads": {
+    "name": "Kontextbezogene Werbung"
+  },
+  "restricted-advertising-content": {
+    "name": "Eingeschränkte Werbeinhalte"
+  },
+  "disable-safety-prompts": {
+    "name": "Sicherheitshinweise deaktivieren"
+  }
+}

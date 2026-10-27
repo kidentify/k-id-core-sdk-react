@@ -1,0 +1,197 @@
+{
+  "multiplayer": {
+    "name": "ผู้เล่นหลายคนออนไลน์"
+  },
+  "leaderboard-and-rankings": {
+    "name": "กระดานผู้นำและอันดับ"
+  },
+  "join-groups": {
+    "name": "เข้าร่วมกลุ่ม"
+  },
+  "public-profile": {
+    "name": "โปรไฟล์สาธารณะ"
+  },
+  "custom-avatar": {
+    "name": "อวตารที่กำหนดเอง"
+  },
+  "custom-username": {
+    "name": "ชื่อผู้ใช้ที่กำหนดเอง"
+  },
+  "text-chat-private": {
+    "name": "แชทข้อความ (ส่วนตัว)"
+  },
+  "text-chat-public": {
+    "name": "แชทข้อความ (สาธารณะ)"
+  },
+  "voice-chat": {
+    "name": "วอยซ์แชท"
+  },
+  "video-chat": {
+    "name": "วิดีโอแชท"
+  },
+  "online-status": {
+    "name": "สถานะออนไลน์"
+  },
+  "public-friend-list": {
+    "name": "รายชื่อเพื่อนสาธารณะ"
+  },
+  "send-accept-friend-requests": {
+    "name": "การส่งและตอบรับคำขอเป็นเพื่อน"
+  },
+  "link-to-third-party-chat": {
+    "name": "เชื่อมโยงกับแชทของบุคคลที่สาม"
+  },
+  "virtual-events": {
+    "name": "กิจกรรมเสมือนจริง"
+  },
+  "personalized-recommendations": {
+    "name": "คำแนะนำส่วนบุคคล"
+  },
+  "targeted-ads": {
+    "name": "โฆษณาที่ตรงเป้าหมาย"
+  },
+  "profiling": {
+    "name": "การสร้างโปรไฟล์"
+  },
+  "push-notifications": {
+    "name": "การแจ้งเตือนแบบพุช"
+  },
+  "share-to-social-media": {
+    "name": "การแชร์ไปยังโซเชียลมีเดีย"
+  },
+  "direct-marketing": {
+    "name": "การตลาดทางตรง"
+  },
+  "forums": {
+    "name": "ฟอรัม"
+  },
+  "in-game-purchases": {
+    "name": "การซื้อภายในแอป"
+  },
+  "loot-boxes-paid-cosmetic-only": {
+    "name": "ลูทบ็อกซ์แบบจ่ายเงินเพื่อสกินเท่านั้น"
+  },
+  "loot-boxes-paid-gameplay-impacting": {
+    "name": "กล่องสุ่มส่งผลต่อการเล่นเกมแบบชำระเงิน"
+  },
+  "loot-boxes-kompu-gacha": {
+    "name": "ลูทบ็อกซ์แบบ Kompu Gacha"
+  },
+  "loot-boxes-paid-open-loop": {
+    "name": "ลูทบ็อกซ์แบบจ่ายเงินที่เปิดลูป"
+  },
+  "send-gifts": {
+    "name": "การส่งของขวัญ"
+  },
+  "simulated-gambling": {
+    "name": "การพนันจำลอง"
+  },
+  "virtual-property-ownership": {
+    "name": "การเป็นเจ้าของทรัพย์สินเสมือนจริง"
+  },
+  "camera-access": {
+    "name": "การเข้าถึงกล้อง"
+  },
+  "share-game-clips-screenshots": {
+    "name": "แชร์คลิปเกมและภาพหน้าจอ"
+  },
+  "photo-video-sharing": {
+    "name": "การแชร์รูปภาพและวิดีโอ"
+  },
+  "real-time-location-sharing": {
+    "name": "การแชร์ตำแหน่งที่ตั้งที่แม่นยำ"
+  },
+  "mods": {
+    "name": "เนื้อหาที่ผู้ใช้สร้างขึ้น"
+  },
+  "gameplay-streaming": {
+    "name": "การสตรีมการเล่นเกม"
+  },
+  "gameplay-recording": {
+    "name": "การบันทึกการเล่นเกม"
+  },
+  "link-to-third-party-streaming-app": {
+    "name": "เชื่อมโยงกับแอปสตรีมมิงของบุคคลที่สาม"
+  },
+  "ai-chat": {
+    "name": "แชท AI"
+  },
+  "ai-voice-mode": {
+    "name": "โหมดเสียงของ AI"
+  },
+  "ai-memory": {
+    "name": "หน่วยความจำ AI"
+  },
+  "ai-media-generation": {
+    "name": "การสร้างสื่อด้วย AI"
+  },
+  "ai-model-training": {
+    "name": "การฝึกโมเดล AI"
+  },
+  "ai-companion-chatbot": {
+    "name": "แชทบอทเพื่อนคู่ใจ AI"
+  },
+  "ai-media-upload": {
+    "name": "การอัปโหลดสื่อให้ AI"
+  },
+  "ai-text-chat": {
+    "name": "แชทข้อความกับ AI"
+  },
+  "ai-image-generation": {
+    "name": "การสร้างภาพด้วย AI"
+  },
+  "ai-video-generation": {
+    "name": "การสร้างวิดีโอด้วย AI"
+  },
+  "ai-web-browsing": {
+    "name": "การท่องเว็บด้วย AI"
+  },
+  "ai-code-execution": {
+    "name": "การรันโค้ดด้วย AI"
+  },
+  "ai-tool-use": {
+    "name": "การใช้เครื่องมือของ AI"
+  },
+  "ai-custom-models": {
+    "name": "โมเดล AI แบบกำหนดเอง"
+  },
+  "ai-generated-avatars": {
+    "name": "อวาตาร์ที่สร้างโดย AI"
+  },
+  "augmented-reality": {
+    "name": "เทคโนโลยีความเป็นจริงเสริม"
+  },
+  "mature-language": {
+    "name": "ภาษาไม่เหมาะสม"
+  },
+  "motion-data": {
+    "name": "ข้อมูลการเคลื่อนไหว"
+  },
+  "ai-chatbot": {
+    "name": "แชทบอท AI"
+  },
+  "pvp": {
+    "name": "PvP"
+  },
+  "chat-rooms-public": {
+    "name": "ห้องแชท (สาธารณะ)"
+  },
+  "link-to-social-media-account": {
+    "name": "เชื่อมโยงกับบัญชีโซเชียลมีเดีย"
+  },
+  "auctions": {
+    "name": "การประมูล"
+  },
+  "virtual-marketplace": {
+    "name": "ตลาดเสมือนจริง"
+  },
+  "contextual-ads": {
+    "name": "โฆษณาตามบริบท"
+  },
+  "restricted-advertising-content": {
+    "name": "เนื้อหาโฆษณาแบบจำกัด"
+  },
+  "disable-safety-prompts": {
+    "name": "ปิดข้อความเตือนความปลอดภัย"
+  }
+}

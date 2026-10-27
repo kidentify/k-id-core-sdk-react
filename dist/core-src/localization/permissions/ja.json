@@ -1,0 +1,197 @@
+{
+  "multiplayer": {
+    "name": "オンラインマルチプレイ"
+  },
+  "leaderboard-and-rankings": {
+    "name": "リーダーボードとランキング"
+  },
+  "join-groups": {
+    "name": "グループに参加"
+  },
+  "public-profile": {
+    "name": "公開プロフィール"
+  },
+  "custom-avatar": {
+    "name": "カスタムアバター"
+  },
+  "custom-username": {
+    "name": "カスタムユーザー名"
+  },
+  "text-chat-private": {
+    "name": "テキストチャット（プライベート）"
+  },
+  "text-chat-public": {
+    "name": "テキストチャット（公開）"
+  },
+  "voice-chat": {
+    "name": "ボイスチャット"
+  },
+  "video-chat": {
+    "name": "ビデオチャット"
+  },
+  "online-status": {
+    "name": "オンラインステータス"
+  },
+  "public-friend-list": {
+    "name": "公開フレンドリスト"
+  },
+  "send-accept-friend-requests": {
+    "name": "フレンドリクエストの送受信"
+  },
+  "link-to-third-party-chat": {
+    "name": "サードパーティチャットへのリンク"
+  },
+  "virtual-events": {
+    "name": "バーチャルイベント"
+  },
+  "personalized-recommendations": {
+    "name": "パーソナライズされたレコメンデーション"
+  },
+  "targeted-ads": {
+    "name": "ターゲティング広告"
+  },
+  "profiling": {
+    "name": "プロファイリング"
+  },
+  "push-notifications": {
+    "name": "プッシュ通知"
+  },
+  "share-to-social-media": {
+    "name": "ソーシャルメディアへの共有"
+  },
+  "direct-marketing": {
+    "name": "ダイレクトマーケティング"
+  },
+  "forums": {
+    "name": "フォーラム"
+  },
+  "in-game-purchases": {
+    "name": "アプリ内課金"
+  },
+  "loot-boxes-paid-cosmetic-only": {
+    "name": "有料コスメティックのみのルートボックス"
+  },
+  "loot-boxes-paid-gameplay-impacting": {
+    "name": "有料で利用に影響を与えるルートボックス"
+  },
+  "loot-boxes-kompu-gacha": {
+    "name": "ルートボックス (コンプガチャ)"
+  },
+  "loot-boxes-paid-open-loop": {
+    "name": "有料オープンループ型ルートボックス"
+  },
+  "send-gifts": {
+    "name": "ギフトを送る"
+  },
+  "simulated-gambling": {
+    "name": "模擬ギャンブル"
+  },
+  "virtual-property-ownership": {
+    "name": "仮想プロパティの所有権"
+  },
+  "camera-access": {
+    "name": "カメラアクセス"
+  },
+  "share-game-clips-screenshots": {
+    "name": "アプリのクリップとスクリーンショットを共有"
+  },
+  "photo-video-sharing": {
+    "name": "写真・動画の共有"
+  },
+  "real-time-location-sharing": {
+    "name": "正確な位置情報の共有"
+  },
+  "mods": {
+    "name": "ユーザー生成コンテンツ"
+  },
+  "gameplay-streaming": {
+    "name": "ストリーミング"
+  },
+  "gameplay-recording": {
+    "name": "録画"
+  },
+  "link-to-third-party-streaming-app": {
+    "name": "サードパーティ製ストリーミングアプリへのリンク"
+  },
+  "ai-chat": {
+    "name": "AIチャット"
+  },
+  "ai-voice-mode": {
+    "name": "AI音声モード"
+  },
+  "ai-memory": {
+    "name": "AIメモリ"
+  },
+  "ai-media-generation": {
+    "name": "AIメディア生成"
+  },
+  "ai-model-training": {
+    "name": "AIモデルの学習"
+  },
+  "ai-companion-chatbot": {
+    "name": "AIコンパニオンチャットボット"
+  },
+  "ai-media-upload": {
+    "name": "AIメディアアップロード"
+  },
+  "ai-text-chat": {
+    "name": "AIテキストチャット"
+  },
+  "ai-image-generation": {
+    "name": "AI画像生成"
+  },
+  "ai-video-generation": {
+    "name": "AI動画生成"
+  },
+  "ai-web-browsing": {
+    "name": "AIウェブブラウジング"
+  },
+  "ai-code-execution": {
+    "name": "AIコード実行"
+  },
+  "ai-tool-use": {
+    "name": "AIツール利用"
+  },
+  "ai-custom-models": {
+    "name": "AIカスタムモデル"
+  },
+  "ai-generated-avatars": {
+    "name": "AI生成アバター"
+  },
+  "augmented-reality": {
+    "name": "拡張現実"
+  },
+  "mature-language": {
+    "name": "不適切な言葉"
+  },
+  "motion-data": {
+    "name": "モーションデータ"
+  },
+  "ai-chatbot": {
+    "name": "AIチャットボット"
+  },
+  "pvp": {
+    "name": "PvP"
+  },
+  "chat-rooms-public": {
+    "name": "チャットルーム（公開）"
+  },
+  "link-to-social-media-account": {
+    "name": "ソーシャルメディアアカウントへのリンク"
+  },
+  "auctions": {
+    "name": "オークション"
+  },
+  "virtual-marketplace": {
+    "name": "バーチャルマーケットプレイス"
+  },
+  "contextual-ads": {
+    "name": "コンテキスト広告"
+  },
+  "restricted-advertising-content": {
+    "name": "制限付き広告コンテンツ"
+  },
+  "disable-safety-prompts": {
+    "name": "安全プロンプトを無効にする"
+  }
+}

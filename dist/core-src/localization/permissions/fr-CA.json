@@ -1,0 +1,197 @@
+{
+  "multiplayer": {
+    "name": "Multijoueur en ligne"
+  },
+  "leaderboard-and-rankings": {
+    "name": "Tableau de classement et rangs"
+  },
+  "join-groups": {
+    "name": "Rejoindre des groupes"
+  },
+  "public-profile": {
+    "name": "Profil public"
+  },
+  "custom-avatar": {
+    "name": "Avatar personnalisé"
+  },
+  "custom-username": {
+    "name": "Nom d'utilisateur personnalisé"
+  },
+  "text-chat-private": {
+    "name": "Clavardage texte (privé)"
+  },
+  "text-chat-public": {
+    "name": "Clavardage texte (public)"
+  },
+  "voice-chat": {
+    "name": "Conversation vocale"
+  },
+  "video-chat": {
+    "name": "Conversation vidéo"
+  },
+  "online-status": {
+    "name": "Statut en ligne"
+  },
+  "public-friend-list": {
+    "name": "Liste d'amis publique"
+  },
+  "send-accept-friend-requests": {
+    "name": "Envoyer et accepter des demandes d'ami"
+  },
+  "link-to-third-party-chat": {
+    "name": "Lien vers une application de clavardage tierce"
+  },
+  "virtual-events": {
+    "name": "Événements virtuels"
+  },
+  "personalized-recommendations": {
+    "name": "Recommandations personnalisées"
+  },
+  "targeted-ads": {
+    "name": "Publicités ciblées"
+  },
+  "profiling": {
+    "name": "Profilage"
+  },
+  "push-notifications": {
+    "name": "Notifications poussées"
+  },
+  "share-to-social-media": {
+    "name": "Partager sur les réseaux sociaux"
+  },
+  "direct-marketing": {
+    "name": "Marketing direct"
+  },
+  "forums": {
+    "name": "Forums"
+  },
+  "in-game-purchases": {
+    "name": "Achats intégrés"
+  },
+  "loot-boxes-paid-cosmetic-only": {
+    "name": "Boîtes de butin payantes (cosmétiques uniquement)"
+  },
+  "loot-boxes-paid-gameplay-impacting": {
+    "name": "Boîtes de butin payantes (impact sur l'utilisation)"
+  },
+  "loot-boxes-kompu-gacha": {
+    "name": "Boîtes de butin Kompu Gacha"
+  },
+  "loot-boxes-paid-open-loop": {
+    "name": "Boîtes de butin payantes à boucle ouverte"
+  },
+  "send-gifts": {
+    "name": "Envoyer des cadeaux"
+  },
+  "simulated-gambling": {
+    "name": "Jeu de hasard simulé"
+  },
+  "virtual-property-ownership": {
+    "name": "Propriété virtuelle"
+  },
+  "camera-access": {
+    "name": "Accès à la caméra"
+  },
+  "share-game-clips-screenshots": {
+    "name": "Partager des captures d'écran d'App Clips"
+  },
+  "photo-video-sharing": {
+    "name": "Partage de photos et de vidéos"
+  },
+  "real-time-location-sharing": {
+    "name": "Partage de localisation précise"
+  },
+  "mods": {
+    "name": "Contenu généré par l'utilisateur"
+  },
+  "gameplay-streaming": {
+    "name": "Diffusion en continu"
+  },
+  "gameplay-recording": {
+    "name": "Enregistrement"
+  },
+  "link-to-third-party-streaming-app": {
+    "name": "Lien vers une application de diffusion en continu tierce"
+  },
+  "ai-chat": {
+    "name": "Clavardage IA"
+  },
+  "ai-voice-mode": {
+    "name": "Mode vocal IA"
+  },
+  "ai-memory": {
+    "name": "Mémoire IA"
+  },
+  "ai-media-generation": {
+    "name": "Génération de médias IA"
+  },
+  "ai-model-training": {
+    "name": "Entraînement de modèles IA"
+  },
+  "ai-companion-chatbot": {
+    "name": "Robot conversationnel compagnon IA"
+  },
+  "ai-media-upload": {
+    "name": "Téléversement de médias vers l'IA"
+  },
+  "ai-text-chat": {
+    "name": "Clavardage texte IA"
+  },
+  "ai-image-generation": {
+    "name": "Génération d'images IA"
+  },
+  "ai-video-generation": {
+    "name": "Génération de vidéos IA"
+  },
+  "ai-web-browsing": {
+    "name": "Navigation Web IA"
+  },
+  "ai-code-execution": {
+    "name": "Exécution de code IA"
+  },
+  "ai-tool-use": {
+    "name": "Utilisation d'outils IA"
+  },
+  "ai-custom-models": {
+    "name": "Modèles IA personnalisés"
+  },
+  "ai-generated-avatars": {
+    "name": "Avatars générés par l'IA"
+  },
+  "augmented-reality": {
+    "name": "Réalité augmentée"
+  },
+  "mature-language": {
+    "name": "Langage mature"
+  },
+  "motion-data": {
+    "name": "Données de mouvement"
+  },
+  "ai-chatbot": {
+    "name": "Robot conversationnel IA"
+  },
+  "pvp": {
+    "name": "JcJ"
+  },
+  "chat-rooms-public": {
+    "name": "Salons de clavardage (publics)"
+  },
+  "link-to-social-media-account": {
+    "name": "Lien à un réseau social"
+  },
+  "auctions": {
+    "name": "Enchères"
+  },
+  "virtual-marketplace": {
+    "name": "Place de marché virtuelle"
+  },
+  "contextual-ads": {
+    "name": "Publicités contextuelles"
+  },
+  "restricted-advertising-content": {
+    "name": "Contenu publicitaire restreint"
+  },
+  "disable-safety-prompts": {
+    "name": "Désactiver les messages de sécurité"
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "multiplayer": {
+    "name": "在线多人游戏"
+  },
+  "leaderboard-and-rankings": {
+    "name": "排行榜和排名"
+  },
+  "join-groups": {
+    "name": "加入群组"
+  },
+  "public-profile": {
+    "name": "公开个人资料"
+  },
+  "custom-avatar": {
+    "name": "自定义头像"
+  },
+  "custom-username": {
+    "name": "自定义用户名"
+  },
+  "text-chat-private": {
+    "name": "文字聊天（私聊）"
+  },
+  "text-chat-public": {
+    "name": "文字聊天（公共）"
+  },
+  "voice-chat": {
+    "name": "语音聊天"
+  },
+  "video-chat": {
+    "name": "视频聊天"
+  },
+  "online-status": {
+    "name": "在线状态"
+  },
+  "public-friend-list": {
+    "name": "公开好友列表"
+  },
+  "send-accept-friend-requests": {
+    "name": "发送和接受好友请求"
+  },
+  "link-to-third-party-chat": {
+    "name": "链接到第三方聊天"
+  },
+  "virtual-events": {
+    "name": "虚拟活动"
+  },
+  "personalized-recommendations": {
+    "name": "个性化推荐"
+  },
+  "targeted-ads": {
+    "name": "定向广告"
+  },
+  "profiling": {
+    "name": "用户画像"
+  },
+  "push-notifications": {
+    "name": "推送通知"
+  },
+  "share-to-social-media": {
+    "name": "分享到社交媒体"
+  },
+  "direct-marketing": {
+    "name": "直接营销"
+  },
+  "forums": {
+    "name": "论坛"
+  },
+  "in-game-purchases": {
+    "name": "应用内购买"
+  },
+  "loot-boxes-paid-cosmetic-only": {
+    "name": "付费外观类开箱"
+  },
+  "loot-boxes-paid-gameplay-impacting": {
+    "name": "付费影响游戏体验类开箱"
+  },
+  "loot-boxes-kompu-gacha": {
+    "name": "复合扭蛋"
+  },
+  "loot-boxes-paid-open-loop": {
+    "name": "付费开放式开箱"
+  },
+  "send-gifts": {
+    "name": "赠送礼物"
+  },
+  "simulated-gambling": {
+    "name": "模拟赌博"
+  },
+  "virtual-property-ownership": {
+    "name": "虚拟财产所有权"
+  },
+  "camera-access": {
+    "name": "摄像头访问"
+  },
+  "share-game-clips-screenshots": {
+    "name": "分享应用片段和截图"
+  },
+  "photo-video-sharing": {
+    "name": "照片和视频分享"
+  },
+  "real-time-location-sharing": {
+    "name": "精准位置共享"
+  },
+  "mods": {
+    "name": "用户生成内容"
+  },
+  "gameplay-streaming": {
+    "name": "流媒体"
+  },
+  "gameplay-recording": {
+    "name": "录制"
+  },
+  "link-to-third-party-streaming-app": {
+    "name": "链接到第三方流媒体应用"
+  },
+  "ai-chat": {
+    "name": "AI聊天"
+  },
+  "ai-voice-mode": {
+    "name": "AI 语音模式"
+  },
+  "ai-memory": {
+    "name": "AI 记忆"
+  },
+  "ai-media-generation": {
+    "name": "AI媒体生成"
+  },
+  "ai-model-training": {
+    "name": "AI模型训练"
+  },
+  "ai-companion-chatbot": {
+    "name": "AI伙伴聊天机器人"
+  },
+  "ai-media-upload": {
+    "name": "AI媒体上传"
+  },
+  "ai-text-chat": {
+    "name": "AI 文本聊天"
+  },
+  "ai-image-generation": {
+    "name": "AI 图像生成"
+  },
+  "ai-video-generation": {
+    "name": "AI 视频生成"
+  },
+  "ai-web-browsing": {
+    "name": "AI 网络浏览"
+  },
+  "ai-code-execution": {
+    "name": "AI 代码执行"
+  },
+  "ai-tool-use": {
+    "name": "AI 工具使用"
+  },
+  "ai-custom-models": {
+    "name": "AI 自定义模型"
+  },
+  "ai-generated-avatars": {
+    "name": "AI生成头像"
+  },
+  "augmented-reality": {
+    "name": "增强现实"
+  },
+  "mature-language": {
+    "name": "不当言语"
+  },
+  "motion-data": {
+    "name": "运动数据"
+  },
+  "ai-chatbot": {
+    "name": "AI聊天机器人"
+  },
+  "pvp": {
+    "name": "玩家对战"
+  },
+  "chat-rooms-public": {
+    "name": "聊天室（公开）"
+  },
+  "link-to-social-media-account": {
+    "name": "链接至社交媒体账号"
+  },
+  "auctions": {
+    "name": "拍卖"
+  },
+  "virtual-marketplace": {
+    "name": "虚拟市场"
+  },
+  "contextual-ads": {
+    "name": "情境广告"
+  },
+  "restricted-advertising-content": {
+    "name": "受限广告内容"
+  },
+  "disable-safety-prompts": {
+    "name": "禁用安全提示"
+  }
+}

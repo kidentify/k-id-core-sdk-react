@@ -1,0 +1,1 @@
+{"version":3,"file":"botCheck.d.ts","sourceRoot":"","sources":["../../core-src/botCheck.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,UAAU,EAAE,MAAM,eAAe,CAAA;AAE/C,MAAM,MAAM,YAAY,GAAG,UAAU,CAAC,SAAS,CAAC,CAAC,gBAAgB,CAAC,CAAA;AAElE,MAAM,WAAW,gBAAgB;IAC/B,KAAK,CAAC,IAAI,EAAE,YAAY,GAAG,OAAO,CAAC,MAAM,CAAC,CAAA;CAC3C"}
